@@ -1,0 +1,6 @@
+﻿  main.c
+c:\users\micha\onedrive\documents\visual studio 2017\projects\btb\btb\main.c(31): warning C4101: 'taken': unreferenced local variable
+c:\users\micha\onedrive\documents\visual studio 2017\projects\btb\btb\main.c(85): warning C4101: 'ptr': unreferenced local variable
+c:\users\micha\onedrive\documents\visual studio 2017\projects\btb\btb\main.c(139): warning C4716: 'get_pc_prediction': must return a value
+  btb.vcxproj -> C:\Users\micha\OneDrive\documents\visual studio 2017\Projects\btb\Debug\btb.exe
+  btb.vcxproj -> C:\Users\micha\OneDrive\documents\visual studio 2017\Projects\btb\Debug\btb.pdb (Partial PDB)
